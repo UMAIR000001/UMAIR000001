@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Umair Hafeez</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%26+PyTorch+Learner;Exploring+AI+🔍&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3F8AC3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%26+PyTorch+Learner;Exploring+AI+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
+
 
 ---
 
