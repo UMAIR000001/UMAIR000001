@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%26+PyTorch+Learner;Always+Exploring+AI+🔍;Backend+Developer+%7C+SQL+%7C+ML" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UMAIR000001&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 ---
 
