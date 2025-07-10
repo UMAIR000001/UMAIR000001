@@ -25,8 +25,7 @@ Experience:     Beginner with Real Projects
 Currently:      Learning Deep Learning & Building Python Tutor Backend
 Portfolio:      https://github.com/UMAIR000001
 Email:          umairhafeez951@gmail.com
-Resume:         ./Mohammed_Umair_Hafeez_Resume.pdf
-Fun Fact:       I love anime and building cool data tools
+Fun Fact:       I love anime and Sports
 ```
 
 ---
