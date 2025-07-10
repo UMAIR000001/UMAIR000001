@@ -40,9 +40,7 @@ Fun Fact:       I love anime and Sports
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="./Mohammed_Umair_Hafeez_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-6f42c1?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+
 </p>
 
 ---
