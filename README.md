@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Umair Hafeez</h1>
-<h3 align="center">Aspiring Data Scientist | Python & PyTorch Learner | Exploring AI 🔍</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%26+PyTorch+Learner;Exploring+AI+🔍&center=true&width=500&height=50">
+</p>
 
 ---
 
